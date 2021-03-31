@@ -1,0 +1,27 @@
+- kleine Sachen
+	- SSO für Teams...funktioniert nicht...Aufgegeben nach zu viel Stunden Arbeit
+	
+-- Sicherheit
+	- Firmware im Netzwerk wie ilos, zertifikate
+	- Switche (siehe ticket)
+		-Ideen: Alternative ports, passwortänderungen, SNMP
+	
+	
+- Kubernetest	(k8s)
+	- abgegrifen und getestet mit Fabian und QA Team
+	- Grundlagen
+	- Muss mehr üben auf testsytem, zur Not privat
+	
+	
+	# ticket erstellen für Glasfasterumbau Technikraum
+	
+	todo: 
+	- Übersicht für Server , Office, VS lizenzenb Spalte von woher kommt das mit verlinkung auf die pdf
+	- VS ent
+	-sql
+	-exchange
+	# hastags für inestitionsplan in jira
+	
+	
+	# BUchhaltung MA düfen KontaktID NICHT SEHEN aber schreiben
+	-	z.b. NA im AD in Buha Sicherheitsstufe2 hinzufügen

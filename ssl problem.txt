@@ -1,0 +1,13 @@
+On your RD Session Host servers only (not your broker), please delete the following registry value:
+
+HKLM\ SYSTEM\ CurrentControlSet\ Control\ Terminal Server\ WinStations\ RDP-Tcp
+
+SSLCertificateSHA1Hash REG_DWORD
+
+NOTE: Again, do not delete the above value from your broker. Only your RDSH servers.
+
+After making the above changes, please test to make sure the issue has been resolved.
+
+#quellen
+https://docs.microsoft.com/en-us/windows/win32/termserv/win32-tsgeneralsetting
+t

@@ -1,0 +1,20 @@
+- kubeconf 
+	- greift über ldap bzw über "dex.lab.k8s.kundm.local" und authentifiziert mit token.
+		- Muss noch auf dsa app Cluster gestellt werden (stand 16.03.21)
+		
+metallb -->
+traeffic -->
+- grafana - grafische Übersicht für prometeus(servermektriken) und Lok (logs)
+- vault von hashicorp (sectretstore, für keyvalues oder zertifikate und inkjection in die Anwendungen! )
+	# mit webinterface) --> cluterintern und extern
+	#  für rotierende credentials (leases), kann leases erstellen und wieder aufärumen(zb login im sqlserver) <--cooool
+	# recht kompliziert, muss man sich anschauen
+	# Anwendungen können jede minute mit einem neuen DB login arbeiten...aber warum?
+
+
+
+- dockerregistry : registry.k8s.kundm.local  /zum pum pushen in die registry muss immer vor /$appname die URL stehen
+	# ansonsten wird nämlich  zu dockerhub gepusht!
+	
+- createtemplate.ps1 --> erstellt ein template für sich 
+# gangwayapp ---wtf is this?

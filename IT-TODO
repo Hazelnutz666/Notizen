@@ -1,0 +1,48 @@
+# IT-TODOs
+
+	# Allgemein
+		1. XML
+	# Powershell
+		1. Invoke Request lernen 
+			- für haveibeenpwned.com  (kein invoke mögliche
+			https://www.gngrninja.com/script-ninja/2016/7/8/powershell-getting-started-utilizing-the-web
+			https://www.gngrninja.com/powershell-getting-started-series
+			
+			-FUnktion machen
+		2. Algos lernen und vergleichen
+			- measure command
+				- statistic machen mit exportfähigkeiten wie json
+		3.mache Ein Programm für Trainingspläne
+			- Auswahl aus Hashtables wie Muskelgruppe, sowie Itensität, Berechung von reps/ sets
+			
+	# Algo der Uni lernen
+		
+	# Linux
+		1. Buch zu ende lesen
+		2. RegEx lernen
+	
+	#. Nginx Server und Apache Basics
+	
+	#Docker
+		1. Nginx Server mit einer Website : Image machen
+			- Image hochladen
+			- image runterladen /deploy
+		2. Docker compose
+			- Mit netzwerken herumspielen
+			- camera/ motion anbinden /vorher miotion stop
+	
+	# Windows Server
+		1. Make Windows Testlabs
+ 
+		
+	# Docusnap
+		- Portzuordnungen von Processen
+		- Dateisystem, Berichte--> Benuzerbericht inkl. Graph
+		- Funktionale Ansicht --> Pläne
+		- Softwaresuche erweitern -->"administration" --> INventar --> "Softwaresuche"
+		- Monitore, INventarnummer etc.
+		- Lizenzmanagemen?
+			-	Verträge mit SIM karten
+		- Handbücher erstellen, ITSI, DSGVO
+		- 365 INventar bei VF
+		 
